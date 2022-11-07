@@ -1,0 +1,12 @@
+version: 1.0
+released: 11/6/22
+
+# Connection parameters
+connection:
+  url: jdbc:mysql://localhost:3306/launch
+  username: root
+  password: password
+
+protocols:
+  - http
+  - https
